@@ -1,0 +1,1 @@
+The Bookstore Management System is designed to eliminate paperwork hassles and provide an efficient solution for managing book-related operations. It facilitates easy access to customer and book information, streamlines administrative tasks, and enhances user experience. The system comprises two modules: Admin and Client.
